@@ -7,7 +7,3 @@ I am now seeking a challenging full-stack developer role where I can apply my di
 If you are looking for a motivated and versatile full-stack developer who can seamlessly blend technical expertise with a strong work ethic, I would be delighted to connect and explore potential opportunities. Let's collaborate and create remarkable solutions together!🧡
 
 [![My Skills](https://skillicons.dev/icons?i=next,nodejs,react,redux,ts,js,html,css,sass,mongodb,firebase,arduino,raspberrypi)](https://skillicons.dev)
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kapisolutions.pl)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubkapturkiewicz/)
