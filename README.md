@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Kuba! 👋
 
-<!--
-**KapiSolutions/kapisolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate and creative full-stack developer with a strong background in automation engineering and programming PLC controllers. With experience in both industrial automation and software development, I bring a unique blend of technical expertise and problem-solving skills to my work.
 
-Here are some ideas to get you started:
+I am now seeking a challenging full-stack developer role where I can apply my diverse skill set and contribute to impactful projects. I am passionate about creating intuitive user experiences, optimizing performance, and solving complex problems through elegant and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are looking for a motivated and versatile full-stack developer who can seamlessly blend technical expertise with a strong work ethic, I would be delighted to connect and explore potential opportunities. Let's collaborate and create remarkable solutions together!🧡
+
+[![My Skills](https://skillicons.dev/icons?i=next,nodejs,react,redux,ts,js,html,css,sass,mongodb,firebase,arduino,raspberrypi)](https://skillicons.dev)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kapisolutions.pl)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubkapturkiewicz/)
