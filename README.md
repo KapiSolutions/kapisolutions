@@ -6,4 +6,4 @@ I have about 5 years of experience as a self-employed full-stack developer and d
 
 If you are looking for a motivated and versatile full-stack developer who can seamlessly blend technical expertise with a strong work ethic, I would be delighted to connect and explore potential opportunities. Let's collaborate and create remarkable solutions together!🧡
 ##
-[![My Skills](https://skillicons.dev/icons?i=next,nodejs,react,redux,ts,js,html,css,sass,mongodb,firebase,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nodejs,react,svelte,ts,js,html,css,sass,mongodb,firebase,prisma,raspberrypi)](https://skillicons.dev)
